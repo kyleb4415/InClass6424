@@ -1,0 +1,15 @@
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.exe
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.deps.json
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.runtimeconfig.json
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.dll
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\bin\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.sourcelink.json
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.dll
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\refint\ConsoleApp4.dll
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.pdb
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\KBZ\Documents\RussianRoulette\Russian-Roulette\ConsoleApp4\obj\Debug\net7.0\ref\ConsoleApp4.dll
